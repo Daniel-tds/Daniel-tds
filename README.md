@@ -1,10 +1,16 @@
-import Desenvolvedor from "Daniel-tds";
+```js
+import Desenvolvedor from "SeuNick";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Daniel Tavares Da Silva";
-  area = "Back-end";
+  nome = "Da";
+  area = "Sua área";
+  trabalho = "Onde trabalha";
+  local = "Local";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Java"];
+  linguagens = ["Suas linguagens"];
+  bibliotecas = ["Suas bibliotecas"];
+  frameworks = ["Seus frameworks"];
 }
+```
