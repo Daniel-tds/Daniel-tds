@@ -1,4 +1,4 @@
-## ## 💙 Olá, meu nome é Daniel Tavares!
+## ##  Olá, meu nome é Daniel Tavares!
 
 Sou um desenvolvedor em início de carreira, focado em construir uma base sólida na área de desenvolvimento de software. Atualmente, estou me especializando em Java, além disso, estou dando os primeiros passos no desenvolvimento web, estudando HTML, CSS e JavaScript para criar páginas web estruturadas, estilizadas e com interatividade básica. Tenho buscado evoluir constantemente, praticando projetos simples e aprimorando meu entendimento tanto no back-end quanto no front-end.
 ---
